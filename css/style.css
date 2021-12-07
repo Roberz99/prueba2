@@ -1,0 +1,28 @@
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#f4f4f4;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color:  #F4F4F4;
+	color: #898989;
+	padding: 20px 0;
+	font-size: 13px;
+}
+.btn.btn-outline-dark{
+	margin: 3%;
+	text-transform: capitalize;
+	
+	
+}
+
+#cooling{
+	align-content: center;
+}
